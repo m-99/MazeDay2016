@@ -1,0 +1,19 @@
+.orange-gradient {
+  background: linear-gradient(to right, #F5AB56, #E03F0D);
+}
+
+.text-white {
+  color: white;
+}
+
+.title-bar {
+  height: 130px;
+}
+
+.dark-orange {
+  background-color: #E03F0D;
+}
+
+.light-orange {
+  background-color: #F5AB56;
+}
